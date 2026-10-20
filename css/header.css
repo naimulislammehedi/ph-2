@@ -1,0 +1,24 @@
+.article {
+    border: 10px solid black;
+    background-color: lightpink;
+    margin: 20px;
+    width: 500px;
+    box-shadow: -20px 20px 5px gray;
+}
+
+.header {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    color: blue;
+
+    background-color: lightgreen;
+    background-image: url("../img/irina_amsterdam-child-10506314_1920.jpg");
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+
+    background-size: cover;
+    /* background-position: center; */
+    /* background-position: left center; */
+}
+
